@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "title": "Fizzi Soda",
+            "imageLink": "/images/project-icons/fizzi-soda.png",
+            "projectLink": "/projects/fizzi.html",
+            "projectType": "",
+            "cardColor": ""
+        },
+        {
+            "title": "Desserts Shop",
+            "imageLink": "/images/project-icons/dessert-shop.png",
+            "projectLink": "/projects/desserts-shop.html",
+            "projectType": "",
+            "cardColor": ""
+        },
+        {
+            "title": "Where in the world?",
+            "imageLink": "/images/project-icons/world.png",
+            "projectLink": "/projects/countries.html",
+            "projectType": "",
+            "cardColor": ""
+        },
+        {
+            "title": "Jigsaw Puzzle Inventory",
+            "imageLink": "/images/project-icons/puzzle-inventory.png",
+            "projectLink": "/projects/jigsaw-puzzle-inventory.html",
+            "projectType": "",
+            "cardColor": ""
+        },
+        {
+            "title": "Design Portfolio",
+            "imageLink": "/images/project-icons/responsive-design.png",
+            "projectLink": "/projects/single-page-portfolio.html",
+            "projectType": "",
+            "cardColor": ""
+        },
+        {
+            "title": "e-Ducación",
+            "imageLink": "/images/project-icons/educacion.png",
+            "projectLink": "/projects/educacion.html",
+            "projectType": "",
+            "cardColor": ""
+        },
+        {
+            "title": "User Interface Components",
+            "imageLink": "/images/project-icons/components.png",
+            "projectLink": "/projects/ui-components.html",
+            "projectType": "",
+            "cardColor": ""
+        },
+        {
+            "title": "Pet Dex",
+            "imageLink": "/images/project-icons/pet-dex.png",
+            "projectLink": "/projects/pet-dex.html",
+            "projectType": "",
+            "cardColor": ""
+        },
+        {
+            "title": "Graphic Design",
+            "imageLink": "/images/project-icons/graphic-design.png",
+            "projectLink": "/projects/graphic-designs.html",
+            "projectType": "",
+            "cardColor": ""
+        }
+    ]
+}

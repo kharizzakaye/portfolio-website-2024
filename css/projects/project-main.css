@@ -1,0 +1,166 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+#under-construction-image {
+    height: 200px;
+}
+
+#under-construction-text {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+
+.project-page-title {
+    padding-top: 30px;
+    font-size: 25px;  
+    font-weight: 700;
+}
+
+.project-page-subtitle {
+    font-size: 16px;
+}
+
+.project-page-description {
+    font-size: 14px;
+}
+
+.button-icon-padding {
+    padding-right: 5px;
+}
+
+.back-button {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.live-demo-button {
+    margin-top: 20px;
+    background-color:yellowgreen;
+    border: none;
+}
+
+.technology-badge-section {
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+.technology-badge {
+    padding: 8px 15px 8px 15px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.browse-project-buttons {
+    margin-top: 70px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    #under-construction-image {
+        height: 250px;
+    }
+    
+    #under-construction-text {
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 20px;
+    }
+    
+    .project-page-title {
+        padding-top: 50px;
+        font-size: 30px;
+    }
+
+    .project-page-subtitle {
+        font-size: 20px;
+    }
+
+    .project-page-description {
+        font-size: 15px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .project-page-title {
+        padding-top: 80px;
+        font-size: 35px;
+    }
+
+    .project-page-subtitle {
+        font-size: 22px;
+    }
+
+    .project-page-description {
+        font-size: 15px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    #under-construction-image {
+        height: 300px;
+    }
+    
+    #under-construction-text {
+        font-size: 25px;
+        font-weight: 700;
+        margin-top: 25px;
+    }
+
+    .project-page-title {
+        padding-top: 20px;
+        font-size: 40px;
+    }
+
+    .project-page-subtitle {
+        font-size: 25px;
+    }
+
+    .project-page-description {
+        font-size: 17px;
+    }
+
+    .back-button {
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+
+    .live-demo-button {
+        margin-top: 20px;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    .project-page-title {
+        padding-top: 20px;
+        font-size: 40px;
+    }
+
+    .project-page-subtitle {
+        font-size: 25px;
+    }
+
+    .project-page-description {
+        font-size: 17px;
+    }
+
+    .back-button {
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+
+    .live-demo-button {
+        margin-top: 20px;
+    }
+}

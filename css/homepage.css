@@ -1,0 +1,90 @@
+
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    /* .btn-padded {
+        padding: 10px 20px 10px 20px;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 10px; 
+    }*/
+    
+    
+
+    /* Projects section */
+    /* #cards-section {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    } */
+    
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    /* .btn-padded {
+        padding: 10px 20px 10px 20px;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 10px; 
+    } */
+    
+    
+    
+    /* Projects section */
+    /* #cards-section {
+        margin-top: 50px;
+        margin-bottom: 30px;
+    } */
+    
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    /* .btn-padded {
+        padding: 10px 20px 10px 20px;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    } */
+    
+    
+
+    /* Projects section */
+    /* #cards-section {
+        margin-top: 50px;
+        margin-bottom: 30px;
+    } */
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    /* .btn-padded {
+        padding: 10px 20px 10px 20px;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+     */
+    
+
+    /* .hero-text {
+        font-size: 35px;
+    }
+     */
+    /* Projects section */
+    /* #cards-section {
+        margin-top: 50px;
+        margin-bottom: 30px;
+    } */
+     
+}
