@@ -12,7 +12,7 @@ projectsList.forEach(p => {
             <div class="card h-100 project-card">
                 <div class="card-icon mx-auto">
                     <img 
-                        src="assets/images/sport.png" 
+                        src="${p["imageLink"]}" 
                         class="card-img-top" 
                         alt="Icon for ${p["title"]}"
                     >                        
