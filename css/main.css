@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+@font-face {
+    font-family: winnie-font;
+    src: url(../font/winie-font.otf);
+}
+
+  
 body
 {
     margin: 0px;
@@ -19,11 +25,14 @@ body
     font-size: 40px;
     font-weight: 700;
     /* padding-bottom: 20px; */
+    font-family: winnie-font, Helvetica, sans-serif;
 }
 
 .sub-header {
     font-size: 25px;  
     font-weight: 700;
+    font-family: winnie-font, Helvetica, sans-serif;
+    letter-spacing: 8px
 }
 
 /* navbar */
@@ -94,7 +103,7 @@ body
 
 /* Expertise section */
 #subtitle-expertise {
-    color: #03071E;
+    color: #6a040f;
 }
 
 #expertise-section {
@@ -109,7 +118,7 @@ body
 
 .expertise-card {
     padding: 30px;
-    background-color: #DC2F02;
+    background-color: #f6f6f7;
     color: #ffffff;
 }
 
