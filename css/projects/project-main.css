@@ -1,23 +1,14 @@
 body {
     padding-top: 60px;
     padding-bottom: 50px;
+    background-color: #03071e;
 }
-
-#under-construction-image {
-    height: 200px;
-}
-
-#under-construction-text {
-    font-size: 16px;
-    font-weight: 700;
-    margin-top: 15px;
-}
-
 
 .project-page-title {
     padding-top: 30px;
     font-size: 25px;  
     font-weight: 700;
+    color: #e85d04;
 }
 
 .project-page-subtitle {

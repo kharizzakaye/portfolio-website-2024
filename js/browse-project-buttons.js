@@ -1,4 +1,4 @@
-import data from './projects.json' with { type: 'json' };
+import data from '../data/projects.json' with { type: 'json' };
 
 let projectsList = data.data;
 

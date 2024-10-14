@@ -36,13 +36,6 @@
             "cardColor": ""
         },
         {
-            "title": "e-Ducación",
-            "imageLink": "/images/project-icons/educacion.png",
-            "projectLink": "/projects/educacion.html",
-            "projectType": "",
-            "cardColor": ""
-        },
-        {
             "title": "User Interface Components",
             "imageLink": "/images/project-icons/components.png",
             "projectLink": "/projects/ui-components.html",

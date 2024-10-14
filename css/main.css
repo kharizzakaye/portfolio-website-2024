@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: winnie-font;
-    src: url(../font/winie-font.otf);
+    src: url(../assets/fonts/winie-font.otf);
 }
 
   
@@ -26,13 +26,15 @@ body
     font-weight: 700;
     /* padding-bottom: 20px; */
     font-family: winnie-font, Helvetica, sans-serif;
+    letter-spacing: 6px;
 }
 
 .sub-header {
     font-size: 25px;  
-    font-weight: 700;
-    font-family: winnie-font, Helvetica, sans-serif;
-    letter-spacing: 8px
+    font-weight: 900;
+    font-family: winnie-font, sans-serif;
+    letter-spacing: 7px;
+    /* text-transform: uppercase; */
 }
 
 /* navbar */
