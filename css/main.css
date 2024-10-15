@@ -24,17 +24,15 @@ body
 .main-page-title {
     font-size: 40px;
     font-weight: 700;
-    /* padding-bottom: 20px; */
     font-family: winnie-font, Helvetica, sans-serif;
     letter-spacing: 6px;
 }
 
 .sub-header {
-    font-size: 25px;  
+    font-size: 35px;  
     font-weight: 900;
     font-family: winnie-font, sans-serif;
     letter-spacing: 7px;
-    /* text-transform: uppercase; */
 }
 
 /* navbar */
@@ -157,31 +155,17 @@ body
 @media (min-width: 768px) {
     .main-page-title {
         font-size: 45px;
-        /* padding-bottom: 10px; */
     }
     
     .sub-header {
-        font-size: 30px;
+        font-size: 35px;
     } 
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .main-page-title {
-        font-size: 45px;
-        /* padding-bottom: 10px; */
-    }
-    
-    .sub-header {
-        font-size: 35px;
-    }
-}
-
-/* X-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-    .main-page-title {
-        font-size: 60px;
-        /* padding-bottom: 30px; */
+        font-size: 50px;
     }
     
     .sub-header {
@@ -189,14 +173,18 @@ body
     }
 }
 
-/* XX-Large devices (larger desktops, 1400px and up) */
-@media (min-width: 1400px) {
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
     .main-page-title {
         font-size: 60px;
-        /* padding-bottom: 50px; */
     }
     
     .sub-header {
-        font-size: 40px; 
+        font-size: 45px;
     }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
 }

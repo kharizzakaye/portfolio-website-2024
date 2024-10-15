@@ -6,13 +6,13 @@ body {
 
 .project-page-title {
     padding-top: 30px;
-    font-size: 25px;  
+    font-size: 35px;  
     font-weight: 700;
     color: #e85d04;
 }
 
 .project-page-subtitle {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .project-page-description {
@@ -49,6 +49,7 @@ body {
     margin-top: 70px;
 }
 
+
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
 
@@ -56,23 +57,13 @@ body {
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-    #under-construction-image {
-        height: 250px;
-    }
-    
-    #under-construction-text {
-        font-size: 20px;
-        font-weight: 700;
-        margin-top: 20px;
-    }
-    
     .project-page-title {
         padding-top: 50px;
-        font-size: 30px;
+        font-size: 35px;
     }
 
     .project-page-subtitle {
-        font-size: 20px;
+        font-size: 25px;
     }
 
     .project-page-description {
@@ -88,7 +79,7 @@ body {
     }
 
     .project-page-subtitle {
-        font-size: 22px;
+        font-size: 25px;
     }
 
     .project-page-description {
@@ -98,16 +89,6 @@ body {
 
 /* X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-    #under-construction-image {
-        height: 300px;
-    }
-    
-    #under-construction-text {
-        font-size: 25px;
-        font-weight: 700;
-        margin-top: 25px;
-    }
-
     .project-page-title {
         padding-top: 20px;
         font-size: 40px;
