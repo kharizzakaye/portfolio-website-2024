@@ -38,12 +38,12 @@ for (let i=0; i < projectsList.length; i++)
 }
 
 setBrowseButtons = `
-    <a class="btn btn-outline-light previous-button" href="..${viewPreviousProject}">
+    <a class="btn btn-outline-light previous-button" href="${viewPreviousProject}">
         <i class="fas fa-arrow-left button-icon-padding"></i>
         Previous Project
     </a>
 
-    <a class="btn btn-outline-light next-button position-absolute end-0" href="..${viewNextProject}">
+    <a class="btn btn-outline-light next-button position-absolute end-0" href="${viewNextProject}">
         <i class="fas fa-arrow-right button-icon-padding"></i>
         Next Project
     </a>
