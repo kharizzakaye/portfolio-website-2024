@@ -3,56 +3,56 @@
         {
             "title": "Fizzi Soda",
             "imageLink": "/assets/images/project-icons/fizzi-soda.png",
-            "projectLink": "/projects/fizzi/index.html",
+            "projectLink": "/fizzi.html",
             "projectType": "",
             "cardColor": ""
         },
         {
             "title": "Desserts Shop",
             "imageLink": "/assets/images/project-icons/dessert-shop.png",
-            "projectLink": "/projects/desserts-shop/index.html",
+            "projectLink": "/desserts-shop.html",
             "projectType": "",
             "cardColor": ""
         },
         {
             "title": "Where in the world?",
             "imageLink": "/assets/images/project-icons/world.png",
-            "projectLink": "/projects/countries/index.html",
+            "projectLink": "/countries.html",
             "projectType": "",
             "cardColor": ""
         },
         {
             "title": "Jigsaw Puzzle Inventory",
             "imageLink": "/assets/images/project-icons/puzzle-inventory.png",
-            "projectLink": "/projects/jigsaw-puzzle-inventory/index.html",
+            "projectLink": "/jigsaw-puzzle-inventory.html",
             "projectType": "",
             "cardColor": ""
         },
         {
             "title": "Design Portfolio",
             "imageLink": "/assets/images/project-icons/design-portfolio.png",
-            "projectLink": "/projects/single-page-portfolio/index.html",
+            "projectLink": "/single-page-portfolio.html",
             "projectType": "",
             "cardColor": ""
         },
         {
             "title": "User Interface Components",
             "imageLink": "/assets/images/project-icons/components.png",
-            "projectLink": "/projects/ui-components/index.html",
+            "projectLink": "/ui-components.html",
             "projectType": "",
             "cardColor": ""
         },
         {
             "title": "Pet Dex",
             "imageLink": "/assets/images/project-icons/pet-dex.png",
-            "projectLink": "/projects/pet-dex/index.html",
+            "projectLink": "/pet-dex.html",
             "projectType": "",
             "cardColor": ""
         },
         {
             "title": "Graphic Design",
             "imageLink": "/assets/images/project-icons/graphic-design.png",
-            "projectLink": "/projects/graphic-designs/index.html",
+            "projectLink": "/graphic-designs.html",
             "projectType": "",
             "cardColor": ""
         }
